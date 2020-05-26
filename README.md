@@ -97,7 +97,7 @@ Half-Day Tutorial (3 hours)
 
 * Medb Corcoran - Managing Director, Lead of Accenture Labs, Dublin
   - Role in tutorial:  Overview, business context for fairness and SME on real world implementation challenges in banking
-  - linkedin:
+  - website:
 
 * Steven Tiell - Sr. Principal, Responsible Innovation, Accenture Labs
   - Role in tutorial: Ethical AI Overview, business context for fairness and SME on Ethical AI Governance
