@@ -115,6 +115,7 @@ Half-Day Tutorial (3 hours)
    <p>
    Steven started Accenture’s journey in data ethics in 2013 while leading foresight research for the firm’s annual
    Technology Vision. Since that time, his pace of discovery in the field has only accelerated. You can read the first set    of papers he published in collaboration with over a dozen others in 2016 at Accenture.com/dataethics. In 2018, he started the Data Ethics Salon Series for practitioners to convene and help each other establish best practices – he has spun the Salon Series out to the Atlantic Council’s GeoTech Center to accelerate the global discovery and publication of best practices. He speaks frequently on topics of data ethics, governance, and related issues, often to large, global audiences and he has published extensively in this field.
+    Steven is the author of many publications including: <em>Universal Principles of Data Ethics: 12 Guidelines for Developing Ethics Codes</em>, <em>Facilitating ethical decisions throughout the data supply chain</em>, <em>Ethical algorithms for “sense and respond” systems</em>, <em>Building Data and AI Ethics Committees</em>.
       </p>
    </details>
   
@@ -124,6 +125,8 @@ Half-Day Tutorial (3 hours)
    <details><summary>Bio Details</summary>
    <p>
    Laura is an Analytics Lead at The Dock, Accenture’s Global Innovation Center in Dublin, Ireland. Her main research   interest is in the area of ethical AI and algorithmic fairness. Laura has led for the last 1.5 years the design and build of Accenture’s Algorithmic Fairness Tool. She has recently completed a 5-month project with a European Financial Services Client where herself and her team conducted the fairness assessment and bias mitigation of two of their classification models, gaining valuable insights as to the challenges and solutions related to the application of state-of-the-art methods coming from academia in a real-life setting.
+      
+    [linkedin](linkedin.com/in/laura-alvarez-jubete-b7501257)
    </p>
    </details>
 
@@ -135,5 +138,7 @@ Half-Day Tutorial (3 hours)
    Andreea has been working closely with a European Financial Institution in the area of Algorithmic Fairness for the last 5 months. The collaboration consisted in implementing algorithmic fairness approaches researched in academia and testing their suitability and applicability in industry settings.
    
    Andreea recently graduated a MSc in Data and Computational Science from University College Dublin, where she focused her research thesis on explainability in machine learning. In 2017 she received a BSc in statistics and economics from the Faculty of Cybernetics, Statistics and Economic Informatics in Bucharest, Romania.
+   
+   <a href="www.linkedin.com/in/andreeamiu">linkedin</a>
    </p>
    </details>  
