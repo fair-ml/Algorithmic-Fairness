@@ -101,11 +101,10 @@ Half-Day Tutorial (3 hours)
    <p>
    Medb is Managing Director of Accenture Labs in Dublin, one of Accenture’s seven key research hubs around the world –            where she leads a team of research scientists that apply emerging technology in the area of AI to help solve problems and create value for clients and society. One of the main focus areas of her team is Explainable AI – which is a key element of being able to ascertain if an AI system is fair.
    
-   Medb is Accenture-Turing Research Director with The Alan Turing Institute in the UK – where she sets agenda and oversees the Accenture portfolio of joint research focusing on ‘Innovating for the Responsible use of AI’. As part of this role, she participated in an Accenture Turing Hackathon in 2018 and brought one of the outcomes, a POC on quantifying Algorithmic Fairness, to Accenture the Dock and sponsored a project to develop this into an Algorithmic Fairness Tool that year. She then oversaw the application of the tool with a European Financial Services Client. She oversees the annual joint innovation symposium – a video of the 2019 symposium, which featured the Algorithmic fairness tool can be found here: <a href = "https://www.turing.ac.uk/collaborateturing/current-partnerships-and-collaborations/accenture">here</a>
+   <br>Medb is Accenture-Turing Research Director with The Alan Turing Institute in the UK – where she sets agenda and oversees the Accenture portfolio of joint research focusing on ‘Innovating for the Responsible use of AI’. As part of this role, she participated in an Accenture Turing Hackathon in 2018 and brought one of the outcomes, a POC on quantifying Algorithmic Fairness, to Accenture the Dock and sponsored a project to develop this into an Algorithmic Fairness Tool that year. She then oversaw the application of the tool with a European Financial Services Client. She oversees the annual joint innovation symposium – a video of the 2019 symposium, which featured the Algorithmic fairness tool can be found here: <a href = "https://www.turing.ac.uk/collaborateturing/current-partnerships-and-collaborations/accenture">here</a>
+She presents regularly both internally and externally on Responsible AI, including algorithmic fairness. 
    
-   She presents regularly both internally and externally on Responsible AI, including algorithmic fairness. 
-   
-   <a href="https://www.linkedin.com/in/medb-corcoran-57386734/">linkedIn</a>
+   <br><a href="https://www.linkedin.com/in/medb-corcoran-57386734/">linkedIn</a>
    </p>
    </details>
 
@@ -118,9 +117,8 @@ Half-Day Tutorial (3 hours)
    Technology Vision. Since that time, his pace of discovery in the field has only accelerated. You can read the first set    of papers he published in collaboration with over a dozen others in 2016 at Accenture.com/dataethics. In 2018, he started the Data Ethics Salon Series for practitioners to convene and help each other establish best practices – he has spun the Salon Series out to the Atlantic Council’s GeoTech Center to accelerate the global discovery and publication of best practices. He speaks frequently on topics of data ethics, governance, and related issues, often to large, global audiences and he has published extensively in this field.
     Steven is the author of many publications including: <em>Universal Principles of Data Ethics: 12 Guidelines for Developing Ethics Codes</em>, <em>Facilitating ethical decisions throughout the data supply chain</em>, <em>Ethical algorithms for “sense and respond” systems</em>, <em>Building Data and AI Ethics Committees</em>.
       
-    <a href="https://www.linkedin.com/in/stiell/">linkedIn</a>
-    
-    <a href="https://www.ethicsofdata.com">website</a>
+    <br><a href="https://www.linkedin.com/in/stiell/">linkedIn</a>
+    <br><a href="https://www.ethicsofdata.com">website</a>
     </p>
    </details>
   
@@ -130,8 +128,7 @@ Half-Day Tutorial (3 hours)
    <details><summary>Bio Details</summary>
    <p>
    Laura is an Analytics Lead at The Dock, Accenture’s Global Innovation Center in Dublin, Ireland. Her main research   interest is in the area of ethical AI and algorithmic fairness. Laura has led for the last 1.5 years the design and build of Accenture’s Algorithmic Fairness Tool. She has recently completed a 5-month project with a European Financial Services Client where herself and her team conducted the fairness assessment and bias mitigation of two of their classification models, gaining valuable insights as to the challenges and solutions related to the application of state-of-the-art methods coming from academia in a real-life setting.
-      
-   <a href="https://www.linkedin.com/in/laura-alvarez-jubete-b7501257/">linkedIn</a>
+   <br><a href="https://www.linkedin.com/in/laura-alvarez-jubete-b7501257/">linkedIn</a>
    </p>
    </details>
 
@@ -142,8 +139,7 @@ Half-Day Tutorial (3 hours)
    <p>
    Andreea has been working closely with a European Financial Institution in the area of Algorithmic Fairness for the last 5 months. The collaboration consisted in implementing algorithmic fairness approaches researched in academia and testing their suitability and applicability in industry settings.
    
-   Andreea recently graduated a MSc in Data and Computational Science from University College Dublin, where she focused her research thesis on explainability in machine learning. In 2017 she received a BSc in statistics and economics from the Faculty of Cybernetics, Statistics and Economic Informatics in Bucharest, Romania.
-   
-   <a href="https://www.linkedin.com/in/andreeamiu">linkedIn</a>
+   <br>Andreea recently graduated a MSc in Data and Computational Science from University College Dublin, where she focused her research thesis on explainability in machine learning. In 2017 she received a BSc in statistics and economics from the Faculty of Cybernetics, Statistics and Economic Informatics in Bucharest, Romania.  
+   <br><a href="https://www.linkedin.com/in/andreeamiu">linkedIn</a>
    </p>
    </details>  
